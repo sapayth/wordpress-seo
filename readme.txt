@@ -239,6 +239,7 @@ Your question has most likely been answered on our help center: [yoast.com/help/
 = 18.6 =
 Release Date: April 19th, 2022
 
+
 Enhancements:
 
 * Adds a disabled Wincher integration toggle to the Network admin/Multisite `integrations` tab.
